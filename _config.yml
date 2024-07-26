@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: master
+source: main
 incremental: false
 highlighter: rouge
 gist:
